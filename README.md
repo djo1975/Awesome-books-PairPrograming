@@ -61,10 +61,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books!] <a name="In this project we are able to create book list and manupulate them."></a>
-
-
-**[Awesome books!]** is a...
+# 📖 Mladan Ilic My First Capstone Project <a name="about-project"></a>
+Link to the descrition video: https://www.loom.com/share/511e6fed68494993b7e4b9660f15f535
+**MyFirstCapstoneProject** is about Exit Music Festival.
 
 ## 🛠 Built With <a name="built-with"></a>
 Use HTML/CSS
@@ -113,8 +112,7 @@ Use JavaScript events.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-- [Live Demo Link]()
+- [Live Demo Link]( https://djo1975.github.io/FirstCapstoneProject/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,7 +208,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Mladan Ilic**
 
 👤 **Author1**
 
