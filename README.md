@@ -1,6 +1,5 @@
 # Awesome-book
-<a name="Mladan Ilic
-"></a>
+<a name="Mladan Ilic"></a>
 
 <!--
 HOW TO USE:
@@ -62,9 +61,8 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books!] <a name="In this project we are able to create vook list and manupulate them."></a>
+# 📖 [Awesome Books!] <a name="In this project we are able to create book list and manupulate them."></a>
 
-> In this project i created my first conference project. This entail agricultural expo.
 
 **[Awesome books!]** is a...
 
@@ -216,7 +214,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/djo1975)
+- GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle]()
 - LinkedIn: [LinkedIn]()
 
@@ -260,8 +258,7 @@ If you like this project...
 
 > According to the requirement, i acknowledge,
 Mladan Ilic
-Alice Mirigo
-
+Alice Gathoni
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
