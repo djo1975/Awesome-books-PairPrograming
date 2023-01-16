@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic My First Capstone Project <a name="about-project"></a>
-Link to the descrition video: https://www.loom.com/share/511e6fed68494993b7e4b9660f15f535
-**MyFirstCapstoneProject** is about Exit Music Festival.
+# 📖 Awesome books Pair Programing <a name="about-project"></a>
+
+**Awesome books: plain JavaScript with objects**In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +60,7 @@ Link to the descrition video: https://www.loom.com/share/511e6fed68494993b7e4b96
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://djo1975.github.io/FirstCapstoneProject/)
+- [Live Demo Link](https://djo1975.github.io/Awesome-books-PairPrograming/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +151,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mladan Ilic**
+👤 **Mladan Ilic Alice Mirigo**
 
 - GitHub: [@githubhandle](https://github.com/djo1975)
 - Twitter: [@twitterhandle](https://twitter.com/MladanIlic)
