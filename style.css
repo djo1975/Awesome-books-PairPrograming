@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+label {
+  width: 100px;
+  margin-right: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  width: 4rem;
+  height: 2rem;
+  border: 1px solid;
+  margin-right: 2.8rem;
+}
+
+#book-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.book {
+  margin-left: 0;
+}
+
+hr {
+  width: 26rem;
+}
