@@ -61,9 +61,8 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic My First Capstone Project <a name="about-project"></a>
-Link to the descrition video: https://www.loom.com/share/511e6fed68494993b7e4b9660f15f535
-**MyFirstCapstoneProject** is about Exit Music Festival.
+# 📖 Mladan Ilic Alice Mirigo <a name="about-project"></a>
+**Awesome books** In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
 Use HTML/CSS
@@ -112,7 +111,7 @@ Use JavaScript events.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://djo1975.github.io/FirstCapstoneProject/)
+- [Live Demo Link](https://djo1975.github.io/Awesome-books-PairPrograming/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
