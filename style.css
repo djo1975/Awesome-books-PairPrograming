@@ -1,45 +1,88 @@
 body {
   font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  width: 610px;
+  height: min-content;
 }
 
-h1 {
+#book-collection {
   text-align: center;
 }
 
-form {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
-label {
-  width: 100px;
-  margin-right: 10px;
-}
-
-input {
-  margin-bottom: 10px;
-}
-
-button {
-  width: 4rem;
-  height: 2rem;
-  border: 1px solid;
-  margin-right: 2.8rem;
+h1 {
+  margin-bottom: 50px;
 }
 
 #book-list {
+  width: 80%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 1px solid;
 }
 
 .book {
-  margin-left: 0;
+  width: 30rem;
+  height: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  padding: 3px;
 }
 
-hr {
-  width: 26rem;
+.book:nth-child(even) {
+  background-color: lightgray;
+}
+
+#add-book-form {
+  display: flex;
+  margin-top: -5rem;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 1rem;
+  align-items: center;
+}
+
+#add-button {
+  margin-left: 8rem;
+  border: 1px solid;
+}
+
+#add-book-form label {
+  margin-right: 10px;
+  border: 1px solid;
+}
+
+h2 {
+  font-size: smaller;
+}
+
+#remove-button {
+  margin-left: 10rem;
+  margin-right: -0.2rem;
+  border: 1px solid;
+}
+
+h3 {
+  font-size: smaller;
+}
+
+h4 {
+  margin-top: 4rem;
+}
+
+.line {
+  height: 91px;
+  position: relative;
+  width: 2px;
+  top: -7.5rem;
+  rotate: 90deg;
+  left: 19rem;
+  background-color: #464242;
 }

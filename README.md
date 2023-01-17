@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic Alice Mirigo <a name="about-project"></a>
+# 📖 Mladan Ilic Alice Mirigo Boniface Dennis<a name="about-project"></a>
 **Awesome books** In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -101,9 +101,9 @@ Use JavaScript events.
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[This app allows users to add/remove books from a list]**
+- **[List is stored to the local storage]**
+- **[Display all books saved in the collection]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,9 +223,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **convert it into a fully functional website]**
+- [ ] **[to add three new sections on top of the two sections]**
+- [ ] **[new Contact info section, a Navigation bar, and a Footer.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,6 +256,7 @@ If you like this project...
 > According to the requirement, i acknowledge,
 Mladan Ilic
 Alice Gathoni
+Boniface Dennis
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
