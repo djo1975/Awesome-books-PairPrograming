@@ -101,9 +101,9 @@ Use JavaScript events.
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[This app allows users to add/remove books from a list]**
+- **[List is stored to the local storage]**
+- **[Display all books saved in the collection]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
