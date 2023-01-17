@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic Alice Mirigo <a name="about-project"></a>
+# 📖 Mladan Ilic Alice Mirigo Boniface Dennis<a name="about-project"></a>
 **Awesome books** In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -256,6 +256,7 @@ If you like this project...
 > According to the requirement, i acknowledge,
 Mladan Ilic
 Alice Gathoni
+Boniface Dennis
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
