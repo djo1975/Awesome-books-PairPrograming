@@ -1,14 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-    padding: 0;
-    display: flex;
-    margin: 0;
-    width: 610px;
-    min-height: 100vh;
-    height: min-content;
-    flex-direction: column;
-    flex-wrap: wrap;
-
+  padding: 0;
+  display: flex;
+  margin: 0;
+  width: 610px;
+  min-height: 100vh;
+  height: min-content;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 .add-book {

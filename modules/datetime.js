@@ -1,5 +1,7 @@
-// date-time.js
-import { DateTime } from "./luxon.js";
+/* eslint-disable import/prefer-default-export */
+/* eslint-disable no-unused-vars */
+import { DateTime } from './luxon.js';
+
 export function showDateTime() {
   const dateTimeDiv = document.getElementById('DateTime');
   const date = new Date();
