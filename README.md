@@ -110,7 +110,7 @@ Use JavaScript events.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link][(https://djo1975.github.io/Awesome-books-PairPrograming/add-new.html)]
+- [Live Demo Link][https://djo1975.github.io/Awesome-books-PairPrograming/add-new.html]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
