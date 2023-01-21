@@ -28,7 +28,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -111,7 +110,7 @@ Use JavaScript events.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://djo1975.github.io/Awesome-books-PairPrograming/)
+- [Live Demo Link](https://alicemirigo92.github.io/Awesome-book/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +208,7 @@ Example:
 
 👤 **Mladan Ilic**
 
-👤 **Author1**
+👤 **Alice Mirigo**
 
 - GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle]()
